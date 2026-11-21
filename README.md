@@ -18,6 +18,7 @@ This repository contains the implementation for **Lab Assignment 2: Student Mana
 
 -----
 ##  Project Structure
+-----
 ├── data/
 │   └── students.js
 ├── middleware/
