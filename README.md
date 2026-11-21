@@ -16,21 +16,6 @@ This repository contains the implementation for **Lab Assignment 2: Student Mana
   * **API Testing Tool:** Postman
   * **Data Storage:** In-Memory Array / JSON Data
 
------
-##  Project Structure
------
-├── data/
-│   └── students.js
-├── middleware/
-│   └── logger.js
-├── routes/
-│   └── studentRoutes.js
-├── app.js
-└── package-lock.json
-└── package.json
-└── README.md
------
-
 ## 🚀 API Endpoints
 
 | HTTP Method | Endpoint        | Description                             |
